@@ -17,7 +17,7 @@ Time spent: 30 hours spent in total
  - [x] User can click on the profile image in any tweet to see another user's profile.
    - [x] User can see picture, tagline, # of followers, # of following, and tweets of clicked user.
    - [x] Profile view should include that user's timeline
-   - [x] *Optional*: User can view following / followers list through the profile
+   - [ ] *Optional*: User can view following / followers list through the profile
  
 *Advanced optional features not yet implemented:*
 
